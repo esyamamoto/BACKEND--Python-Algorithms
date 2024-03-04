@@ -1,6 +1,3 @@
-from re import T
-
-
 def validate(nums):
     if not nums or isinstance(nums, str):
         return False
